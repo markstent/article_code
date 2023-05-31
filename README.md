@@ -1,5 +1,5 @@
 
-![[image](blog_header.png)
+![image](blog_header.png)
 
 Welcome to the repository for all code related to my blog articles. This README will guide you on how to navigate and use the materials present in this repository.
 
