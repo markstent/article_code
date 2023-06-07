@@ -34,6 +34,10 @@ Each article has its own directory. Inside each article directory, you will find
 2. **Title: Unravelling the Power of Matplotlib’s Figure.subplot_mosaic**
    - [Blog Link](https://medium.com/@markstent/unravelling-the-power-of-matplotlibs-figure-subplot-mosaic-db01be8b391c)
    - [Code](subplot_mosaic/subplot_mosaic.ipynb)
+3. **Title: Unravelling the Power of Matplotlib’s Figure.subplot_mosaic**
+   - [Blog Link](https://medium.com/@markstent/lambda-functions-a-quintessential-tool-for-data-science-in-python-237f7e80f1df)
+   - [Code](lambda_functions/lambda_functions.ipynb)
+
 
 *This list will be updated as new articles are published.*
 
