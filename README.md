@@ -37,6 +37,10 @@ Each article has its own directory. Inside each article directory, you will find
 3. **Title: Unravelling the Power of Matplotlib’s Figure.subplot_mosaic**
    - [Blog Link](https://medium.com/@markstent/lambda-functions-a-quintessential-tool-for-data-science-in-python-237f7e80f1df)
    - [Code](lambda_functions/lambda_functions.ipynb)
+4. **Title: Understanding Hypothesis Testing in Data Science: T-tests, F-tests, and More**
+   - [Blog Link](https://medium.com/@markstent/understanding-hypothesis-testing-in-data-science-t-tests-f-tests-and-more-f520cce06f69)
+   - [Code](hypthesis_testing/hypothesis_testing.ipynb)
+
 
 
 *This list will be updated as new articles are published.*
